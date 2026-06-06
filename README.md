@@ -8,6 +8,7 @@ This project is a Power BI Manufacturing Analytics Dashboard developed to monito
 The goal is to enable data-driven decision-making by identifying production bottlenecks, high rejection areas, underperforming machines, and operational trends.
 
 Dashboard Preview
+
 Key Performance Indicators (KPIs)
 KPI	Value
 Total Manufactured Quantity	50M
